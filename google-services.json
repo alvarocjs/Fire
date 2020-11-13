@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284029788835",
+    "firebase_url": "https://fire-73b69.firebaseio.com",
+    "project_id": "fire-73b69",
+    "storage_bucket": "fire-73b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284029788835:android:827c128c5ba50173aad516",
+        "android_client_info": {
+          "package_name": "io.ionic.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284029788835-b5d3or8pv6tsov1p3osnnh9u434ah8ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHdazzdz2AGrT8YGC9Sq2BITXpm0aIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284029788835-b5d3or8pv6tsov1p3osnnh9u434ah8ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
